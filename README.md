@@ -7,3 +7,6 @@
 ## The project is divided in 2 parts
 - Strictly Supervised Learning to model the state space (feature selection and engineering) and the policy space (model selection)
 - Inverse Reinforcement Learning - Running Non-Stationary \Sigma-GIRL which contains multiple SL problems, together with non-convex optimization and a Dynamic Programmic algorithm
+
+
+### The project is developped in the notebook : Como Water Dam Control
