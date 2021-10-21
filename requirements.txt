@@ -1,0 +1,13 @@
+matplotlib>=3.2.1
+numpy
+scikit-learn>=0.22.1
+scipy==1.4.1
+tqdm
+pandas
+pydotplus
+
+## Only if want to use MLP models
+#tensorflow==1.15.3
+#mpi4py
+#gym>=0.17.0
+
